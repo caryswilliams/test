@@ -8,6 +8,6 @@ if answer == "L"
   puts "You're in the sea!"
 elsif answer == "R"
   puts "You're in space!"
-else 
-  puts "You died."
+else
+  puts "You become a unicorn."
 end
