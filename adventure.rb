@@ -9,5 +9,5 @@ if answer == "L"
 elsif answer == "R"
   puts "You're in space!"
 else 
-  puts "You died."
+  puts "You survived."
 end
