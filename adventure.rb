@@ -5,9 +5,9 @@ end
 
 answer = ask "Where would you like to go? L/R"
 if answer == "L"
-  puts "You're in the jungle!"
+  puts "You're in the sea!"
 elsif answer == "R"
-  puts "You're on the beach!"
+  puts "You're in space!"
 else 
-  puts "You got lost."
+  puts "You died."
 end
